@@ -1,0 +1,10 @@
+*.out
+*.o
+*.exe
+*.dSYM/
+bin/
+
+.vscode/
+tempCodeRunnerFile.c
+
+.DS_Store

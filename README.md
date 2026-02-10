@@ -26,7 +26,7 @@ Currently, the model is trained on a regression dataset to **predict house price
 
 ## 🛠️ Installation & Usage
 
-### 1. Clone the Repository
+1. Clone the Repository
 ```bash
 git clone [https://github.com/youssofhossam/Neural-Network-from-Scratch-in-C.git](https://github.com/youssofhossam/Neural-Network-from-Scratch-in-C.git)
 cd Neural-Network-from-Scratch-in-C
@@ -42,5 +42,4 @@ gcc main.c -o neural_net -lm
 ./main.c
 ```
 
-* 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
